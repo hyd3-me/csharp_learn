@@ -12,3 +12,4 @@
 /home/haru/Documents/edu/edu_dotnet/less1/obj/Debug/net9.0/less1.pdb
 /home/haru/Documents/edu/edu_dotnet/less1/obj/Debug/net9.0/less1.genruntimeconfig.cache
 /home/haru/Documents/edu/edu_dotnet/less1/obj/Debug/net9.0/ref/less1.dll
+/home/haru/Documents/edu/edu_dotnet/less1/obj/Debug/net9.0/less1.sourcelink.json
