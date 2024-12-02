@@ -1,0 +1,14 @@
+/home/haru/Documents/edu/edu_dotnet/less1/bin/Debug/net9.0/less1
+/home/haru/Documents/edu/edu_dotnet/less1/bin/Debug/net9.0/less1.deps.json
+/home/haru/Documents/edu/edu_dotnet/less1/bin/Debug/net9.0/less1.runtimeconfig.json
+/home/haru/Documents/edu/edu_dotnet/less1/bin/Debug/net9.0/less1.dll
+/home/haru/Documents/edu/edu_dotnet/less1/bin/Debug/net9.0/less1.pdb
+/home/haru/Documents/edu/edu_dotnet/less1/obj/Debug/net9.0/less1.GeneratedMSBuildEditorConfig.editorconfig
+/home/haru/Documents/edu/edu_dotnet/less1/obj/Debug/net9.0/less1.AssemblyInfoInputs.cache
+/home/haru/Documents/edu/edu_dotnet/less1/obj/Debug/net9.0/less1.AssemblyInfo.cs
+/home/haru/Documents/edu/edu_dotnet/less1/obj/Debug/net9.0/less1.csproj.CoreCompileInputs.cache
+/home/haru/Documents/edu/edu_dotnet/less1/obj/Debug/net9.0/less1.dll
+/home/haru/Documents/edu/edu_dotnet/less1/obj/Debug/net9.0/refint/less1.dll
+/home/haru/Documents/edu/edu_dotnet/less1/obj/Debug/net9.0/less1.pdb
+/home/haru/Documents/edu/edu_dotnet/less1/obj/Debug/net9.0/less1.genruntimeconfig.cache
+/home/haru/Documents/edu/edu_dotnet/less1/obj/Debug/net9.0/ref/less1.dll
